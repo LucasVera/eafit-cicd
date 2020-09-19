@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="protoapp" options="-endorseddirs D:\Projects\EAFIT\cicd\protoapp\target/endorsed" />
+      <module name="protoapp" options="-endorseddirs D:\Projects\EAFIT\cicd\cicdTaller\target/endorsed" />
     </option>
   </component>
 </project>
